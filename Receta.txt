@@ -1,0 +1,8 @@
+cortar|ajo|perejil|cebolla 
+mezclar|ajo|perejil|cebolla|carne picada
+salar|mezcla
+armar|mezcla|sala
+parrilla|medallon
+hornear|pan
+cortarLyT|lechuga|tomate
+GANADOR
